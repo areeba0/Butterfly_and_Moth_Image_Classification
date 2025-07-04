@@ -10,6 +10,7 @@ You can reuse the trained model without retraining by loading it as follows:
 model = SimpleCNN(num_classes=10)
 model.load_state_dict(torch.load("butterfly_model.pth", map_location="cpu"))
 model.eval()
+```python
 
 ## Dataset
 The dataset was manually curated from a 100-class butterfly/moth dataset. We selected 10 unique species and structured the dataset as follows:
