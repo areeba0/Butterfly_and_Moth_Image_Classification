@@ -1,7 +1,9 @@
 # Butterfly and Moth Image Classification using CNN from scratch
 This project aims to classify images of butterflies and moths into 10 different species using a custom-built Convolutional Neural Network (CNN) trained from scratch using PyTorch. The project also features an interactive UI using Gradio where users can upload an image and get real-time predictions.
+
+
 ![Uploading Screenshot 2025-07-03 141919.png…]()
-![Uploading Screenshot 2025-07-03 142016.png…]()
+
 
 ## 🧠 Pretrained Model Included
 This repository includes the saved model weights:  
